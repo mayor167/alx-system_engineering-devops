@@ -1,3 +1,2 @@
 #!/bin/bash
-currentUser=$(WhoAmI)
-echo 'Effective Name =currentUser'
+currentUser=$(WhoAmI) echo 'Effective Name =currentUser'
