@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp alx-system_engineering-devops hello
+chgrp school hello
