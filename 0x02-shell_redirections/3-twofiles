@@ -1,8 +1,2 @@
 #!/bin/bash
-echo "the content /etc/passwd:"
-
-cat /etc/passwd
-
-echo "the content /etc/hosts:"
-
-cat /etc/hosts
+cat /etc/passwd /etc/hosts
