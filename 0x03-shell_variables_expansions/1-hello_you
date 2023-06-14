@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "hello $USER"
+user="Mayor"
+echo "hello $user"
