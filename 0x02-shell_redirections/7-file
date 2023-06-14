@@ -1,5 +1,5 @@
 #!/bin/bash
 
-filename:"\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)"
+filename:"\\\*\\\\"'\"Best School\"\\'\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\)"
 content:"Best School"
 echo "$content" > "$filename"
